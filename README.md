@@ -9,12 +9,12 @@
 - 💻 Hoje estou trabalhando com o reparo de PCs, Notebooks e Celulares;
 - 📚 Priorizo sempre meus estudos! Estou sempre buscando novos conhecimentos;
 - 👨‍💻 Entrei na faculdade para me aprofundar no mundo da programação;
-- ✈ Comecei a aprender inglês e estou cada vez mais animado com o meu progresso;
+- ✈ Comecei a aprender inglês e estou cada vez mais animado com o meu progresso.
 
 **Outras curiosidades:**
 - 🎧 Eu amo músicas! Imagine Dragons é minha banda favorita;
 - 🎮 Sou fascinado por jogos, no meu tempo livre gosto de aprender sobre o desenvolvimento de games;
-- 😎 Apesar de ser quieto, me dou muito bem com o público, amo fazer apresentações;
+- 😎 Apesar de ser quieto, me dou muito bem com o público, amo fazer apresentações.
 
 ##
 
