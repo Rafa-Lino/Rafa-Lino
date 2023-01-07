@@ -6,41 +6,40 @@
 ## Hello World! Eu sou o Rafael😉
 
 **Sobre mim:** 
-- 💻 Hoje estou trabalhando com o reparo de PCs, Notebooks e Celulares;
-- 📚 Priorizo sempre meus estudos! Estou sempre buscando novos conhecimentos;
+- 💻 Sou autônomo, presto serviços de tecnologia (Websites, reparos, etc.);
+- 📚 Estudar é minha prioridade, amo aprender e colocar os conhecimentos em prática;
 - 👨‍💻 Entrei na faculdade para me aprofundar no mundo da programação;
-- ✈ Comecei a aprender inglês e estou cada vez mais animado com o meu progresso.
-
-**Outras curiosidades:**
-- 🎧 Eu amo músicas! Imagine Dragons é minha banda favorita;
-- 🎮 Sou fascinado por jogos, no meu tempo livre gosto de aprender sobre o desenvolvimento de games;
-- 😎 Apesar de ser quieto, me dou muito bem com o público, amo fazer apresentações.
+- ✈ Estou estudando inglês e estou cada vez mais animado com o meu progresso.
 
 ##
 
-### Tecnologias que estou aprendendo:
+### Tecnologias que utilizo no dia a dia:
+
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</div>
 
-
+### Tecnologias que estou aprendendo:
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" widht="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 </div>
 
 ### Tecnologias que quero aprender:
 <div>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" widht="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" widht="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40" />
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" />
 
 </div>
 
